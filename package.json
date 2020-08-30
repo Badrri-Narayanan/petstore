@@ -1,5 +1,5 @@
 {
-  "name": "monsters",
+  "name": "petstore",
   "version": "0.1.0",
   "private": true,
   "homepage": "https://github.com/Badrri-Narayanan/petstore",
@@ -15,7 +15,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
     "predeploy": "npm build",
     "deploy": "gh-pages -d build"
   },
